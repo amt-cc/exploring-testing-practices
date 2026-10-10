@@ -24,9 +24,13 @@ Abaixo estão alguns links para ajudá-lo a encontrar projetos interessantes:
 - Por organização: [Google](https://andrehora.github.io/testminer/#google), [Microsoft](https://andrehora.github.io/testminer/#microsoft), [Apple](https://andrehora.github.io/testminer/#apple), [Facebook](https://andrehora.github.io/testminer/#facebook), [Netflix](https://andrehora.github.io/testminer/#netflix), 
 [GitHub](https://andrehora.github.io/testminer/#github), [Apache](https://andrehora.github.io/testminer/#apache), [HuggingFace](https://andrehora.github.io/testminer/#huggingface)
 
+repositorio escolhido: https://github.com/3b1b
+
 ## Passo 2: Explorar o repositório selecionado
 
 Busque o repositório escolhido no [TestMiner](https://andrehora.github.io/testminer) e analise os dados de teste gerados pela ferramenta.
+
+Os prints com os resultados da análise da ferramenta foram adicionados ao repositório. 
 
 ## Passo 3: Explicar uma prática de teste
 
