@@ -36,7 +36,7 @@ Os prints com os resultados da análise da ferramenta foram adicionados ao repos
 
 Escolha uma prática ou dado de teste relevante e explique com suas próprias palavras.
 
-respposta:
+resposta:
 Na pasta 3Blue1Brown.com, o TestMiner mostra que há arquivos categorizados como tests e arquivos categorizados como test-helpers. Isso isola funções auxiliares, configurações de ambiente, mocos e geração de dados em arquivos separados das lógicas de asserção principais. Isso ajuda a garantir o reuso do código em diferentes suítes de teste e garante que os arquivos de testes principais mais limpos, garantindo uma manutenção mais simples deles. 
 
 O repositório possui uma pasta captions, escrita em typescript, que possui testes de integração continua. Ou seja há uma prática de automação de validação acoplada a uma pipeline de CI (integração continua). Esses scripts rodam automaticamente no Github actions (e em servidores similares) a cada commit ou pull request. isso garante que mudanças no código não quebrem o sistema original e o funcionamento do sistema seja garantido. 
